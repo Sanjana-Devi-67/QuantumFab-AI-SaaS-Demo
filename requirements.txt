@@ -8,3 +8,5 @@ xgboost
 qiskit
 qiskit-algorithms
 qiskit-optimization
+qiskit-machine-learning
+qiskit-visualization
