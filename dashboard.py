@@ -14,7 +14,7 @@ humidity = st.slider("Humidity", 0.0, 1.0, 0.5)
 if st.button("Analyze"):
 
     response = requests.post(
-        "http://127.0.0.1:8000/analyze",
+        "https://quantumfab-ai-saas-demo.onrender.com/analyze",
         json={
             "temperature": temperature,
             "voltage": voltage,
