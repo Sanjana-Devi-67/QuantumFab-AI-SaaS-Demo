@@ -1,0 +1,10 @@
+streamlit
+requests
+fastapi
+uvicorn
+numpy
+scikit-learn
+xgboost
+qiskit
+qiskit-algorithms
+qiskit-optimization
